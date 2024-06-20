@@ -2,7 +2,7 @@ This repo consists of the code needed to repro the bug describe at https://githu
 
 Setup
 ```
-npm init
+npm install
 ```
 
 Run
