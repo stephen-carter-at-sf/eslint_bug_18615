@@ -1,0 +1,7 @@
+{
+    "plugins": ["dummy"],
+    "rules": {
+        "dummy/my-rule-1": ["error"],
+        "dummy/my_rule-2": ["warn"]
+    }
+}
