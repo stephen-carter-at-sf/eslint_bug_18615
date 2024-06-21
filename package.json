@@ -9,7 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "eslint": "^8.57.0",
-    "eslint-plugin-dummy": "file:eslint-plugin-dummy-0.1.0.tgz"
+    "eslint": "^8.57.0"
   }
 }
